@@ -11,14 +11,14 @@ https://openwave-ecommerce.netlify.app
 ![OpenWave - Personal - Microsoft​ Edge 13-05-2023 16_16_07](https://github.com/Mitrjoshi/OpenWave-e-commerce/assets/114912151/4091e4cb-6c64-4b4d-bb5e-09da09ca6c46)
 ![OpenWave - Google Chrome 13-05-2023 16_19_19](https://github.com/Mitrjoshi/OpenWave-e-commerce/assets/114912151/f295bdaf-0a20-42ad-87f3-322d64f0a4cb)
 
-# Run locally
+Run locally  
 
 # 1. Install dependecies
 ```npm i```
 
-# 2. Run locally
+2. Run locally  
 ```npm run dev```
 
-# 3. Build project
+3. Build project  
 ```npm run build```
 
