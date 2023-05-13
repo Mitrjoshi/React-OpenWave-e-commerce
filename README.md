@@ -20,6 +20,5 @@ install dependecies
 ```npm i```
 
 run locally  
-```cd openwave```
 ```npm run dev```
 
