@@ -13,7 +13,13 @@ https://openwave-ecommerce.netlify.app
 
 # Run locally
 
+create gitClone  
+```git@github.com:Mitrjoshi/OpenWave-e-commerce.git```
+
+install dependecies  
 ```npm i```
+
+run locally  
 ```cd openwave```
 ```npm run dev```
 
