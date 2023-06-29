@@ -17,8 +17,8 @@ root.render(
     <ShopContextProvider>
       <AnimatePresence>
         <Auth0Provider
-          domain="" //your auth0 keys
-          clientId="" //your auth0 keys
+          domain="" //AUTH0 KEYS
+          clientId="" //AUTH0 KEYS
           authorizationParams={{
             redirect_uri: window.location.origin,
           }}
